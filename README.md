@@ -12,6 +12,11 @@ PHP   1 hr 47 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 <!--END_SECTION:waka-->
 
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Awi22&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awi22&layout=compact&theme=dark" />
+</p>
+
 <!--
 **Awi22/Awi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
