@@ -13,8 +13,8 @@ PHP   1 hr 47 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!--END_SECTION:waka-->
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Awi22&show_icons=true&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awi22&layout=compact&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Awi22&show_icons=true&&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awi22&layout=compact&&theme=dracula" />
 </p>
 
 <!--
